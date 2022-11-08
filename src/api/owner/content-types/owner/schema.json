@@ -1,0 +1,46 @@
+{
+  "kind": "collectionType",
+  "collectionName": "owners",
+  "info": {
+    "singularName": "owner",
+    "pluralName": "owners",
+    "displayName": "Owner",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "header": {
+      "type": "component",
+      "repeatable": false,
+      "component": "header.main-header"
+    },
+    "firstTextOverview": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text-overview.text-overview"
+    },
+    "firstAboutContent": {
+      "type": "component",
+      "repeatable": false,
+      "component": "about-content.about-content"
+    },
+    "secondTextOverview": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text-overview.text-overview"
+    },
+    "secondAboutContent": {
+      "type": "component",
+      "repeatable": false,
+      "component": "about-content.about-content"
+    },
+    "thirdTextOverview": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text-overview.text-overview"
+    }
+  }
+}

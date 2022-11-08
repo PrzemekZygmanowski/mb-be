@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_spec_overview_specification_overviews",
+  "info": {
+    "displayName": "Specification Overview"
+  },
+  "options": {},
+  "attributes": {
+    "card": {
+      "displayName": "Card",
+      "type": "component",
+      "repeatable": true,
+      "component": "card.card"
+    }
+  }
+}

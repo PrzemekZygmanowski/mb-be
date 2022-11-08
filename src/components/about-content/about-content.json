@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_about_content_about_contents",
+  "info": {
+    "displayName": "About content"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text",
+      "required": true
+    },
+    "imageUrl": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "imageName": {
+      "type": "string"
+    },
+    "orientation": {
+      "type": "string"
+    }
+  }
+}

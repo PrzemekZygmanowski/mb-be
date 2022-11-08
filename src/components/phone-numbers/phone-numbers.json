@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_phone_numbers_phone_numbers",
+  "info": {
+    "displayName": "phoneNumbers"
+  },
+  "options": {},
+  "attributes": {
+    "phoneNumber": {
+      "displayName": "Phone number",
+      "type": "component",
+      "repeatable": true,
+      "component": "phone-number.phone-number"
+    }
+  }
+}

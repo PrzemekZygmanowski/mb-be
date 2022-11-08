@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_text_overview_text_overviews",
+  "info": {
+    "displayName": "Text Overview",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    }
+  }
+}

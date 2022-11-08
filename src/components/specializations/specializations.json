@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_specializations_specializations",
+  "info": {
+    "displayName": "specializations"
+  },
+  "options": {},
+  "attributes": {
+    "specCard": {
+      "displayName": "specialization",
+      "type": "component",
+      "repeatable": true,
+      "component": "specialization-card.specialization"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_mails_mails",
+  "info": {
+    "displayName": "mails"
+  },
+  "options": {},
+  "attributes": {
+    "mail": {
+      "displayName": "mail",
+      "type": "component",
+      "repeatable": true,
+      "component": "mail.mail"
+    }
+  }
+}

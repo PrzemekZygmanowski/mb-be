@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_contact_overview_contact_overviews",
+  "info": {
+    "displayName": "Contact overview",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "address": {
+      "displayName": "address",
+      "type": "component",
+      "repeatable": false,
+      "component": "address.address"
+    },
+    "phoneNumbers": {
+      "displayName": "phoneNumbers",
+      "type": "component",
+      "repeatable": false,
+      "component": "phone-numbers.phone-numbers"
+    }
+  }
+}

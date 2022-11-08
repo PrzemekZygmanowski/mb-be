@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_big_icons_big_icons",
+  "info": {
+    "displayName": "Big Icons"
+  },
+  "options": {},
+  "attributes": {
+    "Icon": {
+      "displayName": "Icons",
+      "type": "component",
+      "repeatable": true,
+      "component": "icons.icons"
+    }
+  }
+}

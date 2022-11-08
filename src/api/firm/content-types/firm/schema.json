@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "firms",
+  "info": {
+    "singularName": "firm",
+    "pluralName": "firms",
+    "displayName": "Firm",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "header": {
+      "type": "component",
+      "repeatable": false,
+      "component": "header.main-header"
+    },
+    "textOverview": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text-overview.text-overview"
+    },
+    "specializations": {
+      "type": "component",
+      "repeatable": false,
+      "component": "specializations.specializations"
+    }
+  }
+}

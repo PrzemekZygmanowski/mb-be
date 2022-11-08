@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_owner_overview_owner_overviews",
+  "info": {
+    "displayName": "Owner overview",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "imageName": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string",
+      "required": true
+    },
+    "about": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
